@@ -2,22 +2,18 @@
 
 Repository for Monash University Bootcamp Module 15
 
-File structure
-index.html is the HTML page of the dashboard (open it to see the dashboard)
-static/css/style.css contains the CSS stylesheet for the dashboard
-static/js/logic.js contains all the JavaScript code for the dashboard
-Leaflet-Part-2 contains the GeoJSON data used to display the tectonic plates
-Use the dashboard
-Open index.html in any browser (tested only in Google Chrome.) Alternatively, access it on the project's GitHub Page.
+Link to the live page: https://ashakozak.github.io/belly-button-challenge/
 
-The dashboard is shown below:
-
+# File structure - leaflet_challenge folder which contains:
+- index.html: Main HTML script for the dashboard
+- static/css/style.css: CSS stylesheet for the dashboard
+- static/js/logic.js: JavaScript code for the dashboar
+  
+# The dashboard should look as below:
 
 
-Use the dropdown menu to select data from the past 7 or 30 days.
-Use the map control to toggle between map layers and display the earthquakes and/or tectonic plates boundaries.
-Click on the markers to get the earthquake's location, magnitude and depth.
 
-Data sources
+
+# Data sources
 Earthquakes information: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
-Tectonic plates boundaries: https://github.com/fraxen/tectonicplates/tree/master/GeoJSON
+
