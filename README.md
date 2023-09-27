@@ -2,7 +2,7 @@
 
 Repository for Monash University Bootcamp Module 15
 
-Link to the live page: 
+Link to the live page: https://ashakozak.github.io/leaflet_challenge/
 
 # File structure - leaflet_challenge folder which contains:
 - index.html: Main HTML script for the dashboard
