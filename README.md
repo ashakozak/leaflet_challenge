@@ -10,6 +10,7 @@ Link to the live page: https://ashakozak.github.io/belly-button-challenge/
 - static/js/logic.js: JavaScript code for the dashboar
   
 # The dashboard should look as below:
+![Untitled](https://github.com/ashakozak/leaflet_challenge/assets/134185577/63ef4d59-91f7-4f18-93c8-b775d52153b6)
 
 
 
